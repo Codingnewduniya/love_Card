@@ -1,0 +1,12 @@
+{
+  "name": "valentines-main",
+  "version": "1.0.0",
+  "description": "An interactive, animated Valentine's Day website to surprise your loved one with a creative \"Will You Be My Valentine?\" proposal. Features an un-clickable \"No\" button, beautiful animations, and a celebration page!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
